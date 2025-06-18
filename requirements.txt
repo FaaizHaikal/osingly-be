@@ -1,0 +1,10 @@
+transformers[torch]
+datasets 
+sentencepiece
+torch
+fastapi
+pydantic
+sacremoses
+tensorboardX
+uvicorn
+scikit-learn
