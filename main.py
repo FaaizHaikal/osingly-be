@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 from routes.translate import router as translate_router
-from services.model_loader import model_loader
 
 app = FastAPI(title="Osing Translator API")
 
